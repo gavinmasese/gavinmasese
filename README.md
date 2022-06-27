@@ -27,6 +27,11 @@ education: Meru university
 fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
+
+
+> *Nothing surpasses nurturing people as a lifelong goal<br>
+>인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
+
 <!--
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
