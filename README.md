@@ -28,7 +28,8 @@ fields_of_interests: ["Mobile app development", "Web development", "Full stack d
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
 > *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
-> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요*
+> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
+> Maes Hughes*
 
 <!--
 <p align="center">
