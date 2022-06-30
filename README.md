@@ -27,10 +27,8 @@ education: Meru university
 fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
-
-
-> *Nothing surpasses nurturing people as a lifelong goal<br>
->인생에서 가장 뜻있는 사업은 인재를 양성하는 일이다*
+> *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
+> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요*
 
 <!--
 <p align="center">
