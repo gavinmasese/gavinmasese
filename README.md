@@ -1,5 +1,22 @@
 
-![](https://visitor-badge.glitch.me/badge?page_id=gavinmasese.gavinmasese)
+> *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
+> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
+> Maes Hughes*
+
+```yaml
+name: Gavin Masese
+located_in: Nairobi, Kenya
+job: Student
+education: Meru university
+
+fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
+hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
+```
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
 
 <p align="left">
 <br/>
@@ -16,26 +33,10 @@
   <img alt="Gavin's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-</p>
-
-```yaml
-name: Gavin Masese
-located_in: Nairobi, Kenya
-job: Student
-education: Meru university
-
-fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
-hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
-```
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
--->
-
-> *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
-> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
-> Maes Hughes*
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
 
  
+![](https://visitor-badge.glitch.me/badge?page_id=gavinmasese.gavinmasese)
+
+
+</p>
 <!-- ![Gavinmasese](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png) -->
