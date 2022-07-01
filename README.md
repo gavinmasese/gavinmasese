@@ -27,13 +27,14 @@ education: Meru university
 fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
-
-![Gavinmasese](https://github.com/gavinmasese/gavinmasese911/blob/main/maes_hughes.jpeg)
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
 > *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
 > 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
 > Maes Hughes*
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
  
 <!-- ![Gavinmasese](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png) -->
