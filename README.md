@@ -18,6 +18,9 @@ hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
 
+![Suggest a song/artist](https://github.com/gavinmasese/gavinmasese/discussions/2)
+
+
 <p align="left">
 <br/>
 <a href="https://twitter.com/gavinmasese">
@@ -33,7 +36,6 @@ hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
   <img alt="Gavin's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
-
  
 ![](https://visitor-badge.glitch.me/badge?page_id=gavinmasese.gavinmasese)
 
