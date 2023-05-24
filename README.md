@@ -35,7 +35,11 @@ hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
   <img alt="Gavin's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
- Joined Github **{{ ACCOUNT_AGE }}** years ago.
+ 
+ 
+<!--  Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories. -->
+ 
+ 
 </p>
