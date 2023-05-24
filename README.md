@@ -12,9 +12,6 @@ education: Meru university
 fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
--->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
 
@@ -38,9 +35,7 @@ hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
   <img alt="Gavin's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
- 
-![](https://visitor-badge.glitch.me/badge?page_id=gavinmasese.gavinmasese)
+ Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 </p>
-<!-- ![Gavinmasese](https://user-images.githubusercontent.com/49750136/133055850-5e24e018-932a-4b15-bf7b-6f9d04271e27.png) -->
