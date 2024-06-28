@@ -13,11 +13,6 @@ fields_of_interests: ["Mobile app development", "Web development", "Full stack d
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
-
-> If you think there is a song or artist I'd like feel free to <br>
-> [Suggest a song/artist](https://github.com/gavinmasese/gavinmasese/discussions/2)
- 
 
 
 <p align="left">
